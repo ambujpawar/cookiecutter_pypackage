@@ -1,1 +1,1 @@
-cookiecutter
+Cookiecutter template for personal projects
