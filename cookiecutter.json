@@ -1,8 +1,8 @@
 {
     "project_name": "My Project",
-    "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '_') }}",
+    "project_slug": "{{cookiecutter.project_name|lower|replace(' ', '_')}}",
     "project_description": "My Project Description",
     "author_name": "My Name",
-    "project_email": "pawar.ambuj@gmail.com",
+    "project_email": "",
     "version": "0.1.0"
 }
